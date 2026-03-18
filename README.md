@@ -20,5 +20,5 @@ Docker를 활용하여 간단한 Python HTTP 서버를 컨테이너로 실행하
 ## 🚀 실행 방법
 
 ### 1. 이미지 빌드
-</> Bash
+```bash
 docker build -t my-python-server .
